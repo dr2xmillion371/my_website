@@ -1,5 +1,3 @@
-import time as tea
-
 def bm_home():
 	print('This is lngi for BMS!')
 	print('Here is goes!:')
